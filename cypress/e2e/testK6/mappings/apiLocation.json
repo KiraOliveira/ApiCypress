@@ -1,0 +1,13 @@
+{
+    "request": {
+      "method": "GET",
+      "url": "https://rickandmortyapi.com/api/location"
+    },
+    "response": {
+      "status": 200,
+      "bodyFileName": "location.json",
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    }
+  }

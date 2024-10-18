@@ -1,0 +1,13 @@
+{
+    "request": {
+      "method": "GET",
+      "url": "https://rickandmortyapi.com/api/character"
+    },
+    "response": {
+      "status": 200,
+      "bodyFileName": "character.json",
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    }
+  }
